@@ -1,0 +1,78 @@
+.app_about{
+    font-size: 0.16rem 
+}
+.pri_box{
+    width: 100%;
+    /* display: flex;
+    justify-content: space-between; */
+    text-align: left;
+    margin-top: 0.2rem;
+    padding: 0.27rem;
+    border-bottom: 1px solid #D2D2D2
+}
+.top-title{
+    font-size: .3rem;
+    color: #304ba6;
+    font-weight: 400;
+}
+.top-title p {
+    font-size: .14rem;
+    margin-top: .08rem;
+}
+.content-a{
+    margin-top:.31rem;
+    padding-bottom: .76rem;
+}
+.content-a img{
+    width:8rem;
+    height:3rem;
+}
+.content-a p{
+    width:90%;
+    /* // margin:0 auto; */
+    font-size: .18rem;
+    font-weight: 400;
+    line-height: .28rem;
+    text-indent:.25rem;
+     /* padding:.2rem; */
+
+}
+.tem-s{
+    font-size: .2rem;
+    color: #304ba6;
+    line-height: .24rem;
+    padding-top: .15rem;
+    padding-bottom: .16rem;
+    border-bottom: 1px solid #D2D2D2;
+    text-align: left
+}
+.Administration{
+    font-size: .14rem;
+    line-height: .24rem;
+    text-align: left
+}
+.proposal{
+    position: relative;
+    background: #304ba6;
+    color: #fff;
+     padding-top: .22rem;
+    padding-bottom: .21rem;
+    margin-top: .58rem;
+    margin-bottom: .76rem;
+}
+.proposal p{
+    font-size: .22rem;
+}
+.proposal h3{
+    font-size: .38rem;
+    font-weight: 400;
+    line-height: .5rem;
+}
+.to-top{
+    position: absolute;
+    bottom: 0;
+    right: -.7rem;
+}
+.my_display{
+    display: none;
+}
